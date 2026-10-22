@@ -24,7 +24,7 @@ ourselves.
 
 ## The work
 
-| | |
+| Model | What it does |
 |---|---|
 | **Digital twin** | Critical power, W′ and how each holds up as work accumulates, fitted to each rider's own efforts. Where the efforts cannot answer, the twin says so. |
 | **Race simulation** | Course, wind, pacing, line-up and the other teams, sampled thousands of times. The answer is a distribution: what usually happens, what rarely does, and what it would take to change it. |
