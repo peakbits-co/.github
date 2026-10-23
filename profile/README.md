@@ -74,16 +74,6 @@ the service course, the team bus or a hotel room on race or match day.
 - **Trained where the data lives.** Athlete data is never sent to a public AI service and never
   trains anyone else's model.
 
-## ZeroByte
-
-[ZeroByte](https://zerobyte.cloud) is our end-to-end encrypted relay for sensitive, private
-data, such as health and medical records, between two paired devices. Every update is sealed on
-the device that sends it and deleted once the other device has collected it.
-
-The protocol, the relay and the SDKs for Swift, Android, JavaScript and .NET are open source in
-the [zerobyte-cloud](https://github.com/zerobyte-cloud) organisation, with documentation at
-[docs.zerobyte.cloud](https://docs.zerobyte.cloud).
-
 ## Open problems
 
 What we are working on next. Ask us about any of them.
